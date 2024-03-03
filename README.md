@@ -15,11 +15,11 @@ Serão sempre bem vindos ao meu Git, fique à vontade para fazer quaisquer pergu
 💻 Atualmente estou focado em aprender.
 
 
-           
-            <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
+           <div style="display-inline">
+            <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
             
             <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-          
+          </div>
           
           
           
