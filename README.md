@@ -15,16 +15,8 @@ Serão sempre bem vindos ao meu Git, fique à vontade para fazer quaisquer pergu
 💻 Atualmente estou focado em aprender.
 
 
-            <i class="devicon-javascript-plain colored"></i>
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-          
-            <i class="devicon-ruby-plain-wordmark colored"></i>
-          
-            <i class="devicon-angularjs-plain colored"></i>
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-          
+           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+          
           
           
