@@ -24,6 +24,5 @@ Serão sempre bem vindos ao meu Git, fique à vontade para fazer quaisquer pergu
             <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg" />
           
 </div>
-          <img src=”https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white” />        
- ![LinkedIn]()    
- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+          
+
