@@ -26,4 +26,3 @@ Serão sempre bem vindos ao meu Git, fique à vontade para fazer quaisquer pergu
 </div>
           
 
-![snake gif](https://github.com/gebsonlima/gebsonlima/blob/output/github-contribution-grid-snake.svg)
