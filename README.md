@@ -1,4 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D8CF7&background=FF000000&multiline=true&random=false&width=435&height=65&lines=Ol%C3%A1%2C+sou+Gebson+Silva!++;Sejam+Bem+Vindos.+)](https://git.io/typing-svg)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D8CF7&background=FF000000&multiline=true&random=false&width=435&height=65&lines=Ol%C3%A1%2C+sou+Gebson+Silva!++;Sejam+Bem+Vindos.+" alt="Typing SVG" /></a>
 Hi there! Welcome. 👋🏻
 
 <p align="center">
